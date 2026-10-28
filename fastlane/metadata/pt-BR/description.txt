@@ -1,0 +1,12 @@
+Stakglow é um quadro semanal de partidas para amigos, em um único celular. Adicione pessoas e partidas, elimine os resultados errados de Casa, Empate ou Fora, bloqueie a semana antes do início e digite os placares finais para marcar pontos.
+
+• Adicione pessoas em Pessoas neste celular e alterne entre elas em Com
+• Adicione uma partida com Clube da casa, Clube visitante e Início
+• Elimine o resultado errado de cada partida até restar um
+• Bloqueie a semana quando todas as partidas tiverem um resultado em aberto, e somente antes do início
+• Abra Partidas para publicar o placar digitando o resultado final de cada partida
+• Abra Classificação para ver Líder, pontos da semana, Acertos, Erros e Anulações
+• Toque em Veja como funciona o bloqueio para ler a Regra de bloqueio
+• Em Ajustes, use Mostrar a introdução novamente, Apagar todos os dados ou Contato
+
+Feito para amigos que compartilham um celular durante a semana. Sem contas nem cotações ao vivo.

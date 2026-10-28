@@ -1,0 +1,15 @@
+The app does not request camera, photos, microphone, location, notifications, or tracking permission. No permission usage strings are configured in the build settings, and no permission dialogs appear in normal use.
+
+There is no login, no in-app purchase, no user-generated content feed, no account deletion flow, and no App Tracking Transparency prompt.
+
+Stakglow is a weekly match scoring board for friends who share one phone. People punch out wrong Home, Draw, or Away results for each match, lock the week before kickoff, type final scores, and compare points on the Table.
+
+No credentials or demo account are needed. Cold launch shows a short introduction: One phone for the week, Punch the wrong results, and Lock, then post the score. Tap Continue on each page, or Skip. If the board is empty, tap Add a match to open Settings. Under People on this phone, enter a New name and tap Add person. Under Matches this week, enter Home club, Away club, and Kickoff, then tap Add match. Close Settings. On the home board, tap Punch on wrong Home, Draw, or Away holes until one result remains on every match. When the phase shows READY, tap Lock week. Open Matches, type each Final score, and tap Post score. Open Table to see Leader, points this week, Hits, Misses, and Voids. Optionally tap See how lock works to open Lock rule.
+
+Matches, people, and points stay on this phone. Settings includes a Contact control that opens the support page in the system browser.
+
+Behaviour does not differ by region.
+
+No licence or regulated-industry paperwork applies. The app records personal match picks and points among friends on one device and does not handle money, stakes, or bookmaker accounts.
+
+The app is a personal scoring log only and gives no health, medical, or product-health recommendations.

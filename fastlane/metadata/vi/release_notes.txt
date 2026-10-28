@@ -1,0 +1,1 @@
+Bản phát hành đầu tiên. Thêm người chơi và trận đấu trên một điện thoại, loại kết quả sai, khóa tuần trước giờ bóng lăn, nhập tỷ số cuối cùng và so sánh điểm trên Bảng xếp hạng.

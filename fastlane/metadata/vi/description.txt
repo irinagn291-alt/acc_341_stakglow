@@ -1,0 +1,12 @@
+Stakglow là bảng dự đoán trận đấu hàng tuần trên một điện thoại dành cho bạn bè. Thêm người chơi và trận đấu, loại bỏ các kết quả Chủ nhà, Hòa hoặc Đội khách sai, khóa tuần trước giờ bóng lăn, rồi nhập tỷ số cuối cùng để tính điểm.
+
+• Thêm người chơi trong mục Người chơi trên điện thoại này và chuyển đổi giữa họ bằng mục Cùng chơi
+• Thêm trận đấu với Đội chủ nhà, Đội khách và Giờ bóng lăn
+• Loại kết quả sai trong mỗi trận cho đến khi chỉ còn một kết quả
+• Khóa tuần khi mỗi trận còn một kết quả được chọn, và chỉ trước giờ bóng lăn
+• Mở mục Trận đấu để nhập tỷ số cuối cùng cho từng trận
+• Mở mục Bảng xếp hạng để xem Người dẫn đầu, điểm tuần này, Trúng, Trượt và Hủy
+• Chạm vào Xem cách khóa hoạt động để đọc Quy tắc khóa
+• Trong Cài đặt, dùng các mục Xem lại phần giới thiệu, Đặt lại toàn bộ dữ liệu hoặc Liên hệ
+
+Dành cho bạn bè cùng dùng một điện thoại trong tuần. Không cần tài khoản, không có tỷ lệ cược trực tiếp.

@@ -1,0 +1,1 @@
+football,soccer,picks,score,standings,match,friends,kickoff,lock,table,punch,results

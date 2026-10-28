@@ -1,0 +1,1 @@
+Initial release. Add people and matches on one phone, punch the wrong results, lock the week before kickoff, post final scores, and compare points on the Table.

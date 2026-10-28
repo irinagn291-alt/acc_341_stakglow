@@ -1,0 +1,1 @@
+Lançamento inicial. Adicione pessoas e partidas em um celular, elimine os resultados errados, bloqueie a semana antes do início, publique os placares finais e compare os pontos na Classificação.

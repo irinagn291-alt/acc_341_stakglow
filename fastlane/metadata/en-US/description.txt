@@ -1,0 +1,12 @@
+Stakglow is a one-phone weekly match board for friends. You add people and matches, punch out the wrong Home, Draw, or Away results, lock the week before kickoff, then type the final scores for points.
+
+• Add people under People on this phone and switch between them with With
+• Add a match with Home club, Away club, and Kickoff
+• Punch the wrong result on each match until one result remains
+• Lock week when every match has one open result, and only before kickoff
+• Open Matches to Post score by typing the final score for each match
+• Open Table to see Leader, points this week, Hits, Misses, and Voids
+• Tap See how lock works to read Lock rule
+• In Settings, use Show the introduction again, Reset all data, or Contact
+
+Made for friends who share one phone for the week. No accounts or live odds.
